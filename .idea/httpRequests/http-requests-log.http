@@ -1,0 +1,48 @@
+GET http://localhost:8000/api/v1/articles?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJwYXNzd29yZCI6InRlc3QxMjM0NTYiLCJleHAiOjE1NTY5NjY1ODMsImlzcyI6Imdpbi1ibG9nIn0.cOyiQzfZP1pBCfQ322rcEKDOTTCFwdGiWYQehhsUTpM
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-04T035703.200.json
+
+###
+
+GET http://localhost:8000/api/v1/articles
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-04T035650.401.json
+
+###
+
+GET http://localhost:8000/api/v1
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-05-04T035642.404.txt
+
+###
+
+GET http://localhost:8080/api/v1
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/api/v1
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/api/v1
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/api/v1
+Accept: */*
+Cache-Control: no-cache
+
+###
+
